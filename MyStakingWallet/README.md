@@ -1,7 +1,9 @@
 # MyStakingWallet (MSW)
-My Staking Wallet is a user friendly cryptocurrency service that allows you to run your very own fully independent node for proof of stake and proof of work cryptocurrencies.
+MyStakingWallet is a user friendly cryptocurrency service that allows you to run your very own fully independent node for proof of stake and proof of work cryptocurrencies.
 
 No copious setup docs, no bashing linux, just a few simple clicks and you'll be up and running in minutes.
+
+[One click masternode setup](https://streamable.com/nqmd6)
 
 [Website](https://www.mystakingwallet.com) - [Discord](https://discord.gg/j4MebEY)
 
