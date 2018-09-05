@@ -5,6 +5,6 @@ Bootstrapping is the process for speeding up the syncing of your wallet. Syncing
 Backup your wallet
 
 ## Download dynamic bootstrap
-Navigate in your browser to [https://bit.ly/lindabootstrap](bit.ly/lindabootstrap)
+Navigate in your browser to [bit.ly/lindabootstrap](https://bit.ly/lindabootstrap)
 
 On the right top corner select Download & Direct download
