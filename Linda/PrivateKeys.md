@@ -1,4 +1,4 @@
-### Private Keys
+# Private Keys
 
 * Private Keys are an excellent way to back up certain addresses contained within a wallet
 * Private Keys will give you the ability to recover any coins contained on a certain address 
